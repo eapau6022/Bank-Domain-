@@ -1,2 +1,2 @@
-# Bank-Domain-
-bank domain dashboard using power bi
+# Bank-Domain-Dashboard
+Bank domain dashboard created with Microsoft Power Bi
